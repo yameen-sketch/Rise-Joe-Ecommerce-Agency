@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /send.php
+Disallow: /smtp-test.php
+Disallow: /includes/
+
+Sitemap: https://yourdomain.com/sitemap.xml
